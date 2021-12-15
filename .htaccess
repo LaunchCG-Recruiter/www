@@ -1,0 +1,20 @@
+HeaderName Ekstrom.html
+IndexOptions SuppressHTMLPreamble
+IndexOptions SuppressLastModified
+AddIcon information.ico *
+DefaultIcon information.ico
+AddDescription "<font color='#777777'>2005, 2006, 2007, 2008, 2009 and 2010</font>" 2000
+AddDescription "<font color='#222222'>Two Thousand Eleven</font>" 2011
+AddDescription "<font color='#000000'>Two Thousand Twelve</font>" 2012
+AddDescription "<i>In for ma tion</i>" info
+AddDescription "<font color='#ff0000'><b>Daily</b></font>" daily
+AddDescription "&bull;" *.php
+
+IndexOptions SuppressSize
+IndexOptions IgnoreClient
+
+ IndexOptions FancyIndexing
+  IndexOptions FoldersFirst
+IndexIgnore cgi-bin
+IndexIgnore information.ico
+IndexIgnore Ekstrom.html
